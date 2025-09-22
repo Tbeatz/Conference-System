@@ -26,7 +26,7 @@
 <body class="bg-gradient-to-r from-purple-200 to-pink-200 text-gray-800 antialiased">
 
     {{-- Header --}}
-    @include('guest.layout.Header')
+    @include('guest.layout.header')
 
     {{-- Main Content --}}
     <main class="relative min-h-screen py-12 px-4 sm:px-6 lg:px-8 text-white overflow-hidden">
